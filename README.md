@@ -1,3 +1,9 @@
+# ⛔️ DEPRECATED
+
+This repository is now deprecated. We moved to a new mono repository called the Wallet-API that you can find [here](https://github.com/ledgerhq/wallet-api).
+
+---
+
 <p align="center">
  <img src="https://user-images.githubusercontent.com/9203826/154288895-670f5c23-81a1-4307-a080-1af83f7f8356.svg" align="center" alt="Ledger" />
  <h2 align="center">Live App SDK</h2>
